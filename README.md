@@ -1,10 +1,9 @@
-# GUN Chat Dapp Demo
+# Decentralized Chat app
 
 A decentralized chat app built with [GUN](https://gun.eco/). 
 
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
-- Watch the [Chat Dapp Video](https://youtu.be/J5x3OMXjgMc)
-
+- Try the [Live Demo](https://chat-dapp-v1.netlify.app)
+- Portfolio [Vedansh Mishra](https://mvedansh.ml)
 ```
 git clone <this-repo>
 npm install
